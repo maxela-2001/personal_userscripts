@@ -2,10 +2,9 @@
 // @name         ANU MEINE KURSE
 // @namespace    http://tampermonkey.net/
 // @match        https://wattlecourses.anu.edu.au/*
-// @version      1.0.8
-// @description  Adds a floating window with a course menu on Moodle pages.
-// @author       Ziyi Guo & ChatGPT
-// @icon         https://moodle.hs-esslingen.de/moodle/theme/image.php/boost/theme/1676389471/favicon
+// @version      0.1
+// @description  Adds a floating window with a course menu on Moodle pages. Based off another userscript I found on greasyfork and modified.
+// @author       maxela-2001 & ChatGPT (plus the original userscript author)
 // @require      https://raw.githubusercontent.com/SortableJS/Sortable/1.15.0/Sortable.min.js
 // @grant        GM_log
 // @grant        GM_xmlhttpRequest
